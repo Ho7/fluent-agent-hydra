@@ -1,6 +1,6 @@
-module github.com/fujiwara/fluent-agent-hydra
+module github.com/ho7/fluent-agent-hydra
 
-go 1.13
+go 1.16
 
 require (
 	github.com/BurntSushi/toml v0.3.1
